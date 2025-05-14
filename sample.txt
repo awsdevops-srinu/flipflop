@@ -1,1 +1,6 @@
-welcome to sample
+ok
+formet test
+
+hello
+bye
+
